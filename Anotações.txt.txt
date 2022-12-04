@@ -1,3 +1,22 @@
-Link para download do Git: 
+# Link para download do Git: 
 
 O Git Bash é um terminal para otimizar o uso do Git no desktop.
+
+## Comandos inicias para usar o Git:
+- git init: cria um repositório;
+- git add: move os arquivos para dentro do repositório;
+- git commit: cria um commit.
+
+// Quando estiver lidando com o terminal, usa-se o nome do programa primeiro para depois usar um comando específico.
+
+# Criando um repositório:
+* Abrir o Git Bash na pasta onde vai ser criado o repositório;
+* ls para listar os arquivos presentes na pasta -> entrar na pasta mkdir (nome da pasta);
+* Iniciar o Git dentro da pasta: git init (vai ser criado um repositório vazio);
+// caso queira ver uma pasta oculta, usar o comando ls -a
+* Antes de criar um commit, é necessário configurar, porquê um commit é gerado somente com um autor;
+* Para configurar o Git: git config --global user.email "insira email (o mesmo cadastrado no GitHub)" -> enter -> git config --global user.name "insira nome (o mesmo cadastrado no GitHub)";
+* Crie um arquivo (preferência tipo markdown): criar pasta -> abrir editor de texto -> nome da pasta.md;
+// O arquivo foi modificado, então será necessário mover as modificações para dentro do commit:
+* git add * (move toda modificação para dentro do commit) -> git commit -m "insira uma mensagem" (mensagem explicando para o que é o repositório).
+
