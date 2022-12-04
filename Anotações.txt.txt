@@ -3,7 +3,7 @@
 
 O Git Bash é um terminal para otimizar o uso do Git no desktop.
 
-## Comandos inicias para usar o Git:
+## Comandos iniciais para usar o Git:
 - git init: cria um repositório;
 - git add: move os arquivos para dentro do repositório;
 - git commit: cria um commit.
