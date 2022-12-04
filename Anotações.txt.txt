@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Link para download do Git: 
 
 O Git Bash é um terminal para otimizar o uso do Git no desktop.
@@ -20,3 +21,8 @@ O Git Bash é um terminal para otimizar o uso do Git no desktop.
 // O arquivo foi modificado, então será necessário mover as modificações para dentro do commit:
 * git add * (move toda modificação para dentro do commit) -> git commit -m "insira uma mensagem" (mensagem explicando para o que é o repositório).
 
+=======
+Link para download do Git: 
+https://git-scm.com/download/
+O Git Bash é um terminal para otimizar o uso do Git no desktop.
+>>>>>>> 2e50f35e82b4aa403812f736df950c69f94e81ff
